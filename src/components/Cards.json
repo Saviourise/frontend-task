@@ -8,7 +8,8 @@
         "collection": "Healing from the metaverse",
         "owners": "16",
         "wallet": "ETH",
-        "items": "29"
+        "items": "29",
+        "description": "Each piece represents an emotion, a color, a tone to heal you. From the metaverse to earth exists to support your healing journey and a new tool towards a life of love and happiness."
     },
     {
         "name": "Cool Cats",
@@ -19,7 +20,8 @@
         "collection": "-",
         "owners": "-0",
         "wallet": "ETH",
-        "items": "0"
+        "items": "0",
+        "description": "Welcome to the home of Cool Cats on OpenSea. Discover the best items in this collection."
     },
     {
         "name": "Azuki",
@@ -30,7 +32,8 @@
         "collection": "PFPs",
         "owners": "4,908",
         "wallet": "ETH",
-        "items": "10k"
+        "items": "10k",
+        "description": "Azuki starts with a collection of 10,000 avatars that give you membership access to The Garden: a corner of the internet where artists, builders, and web3 enthusiasts meet to create a decentralized future. Azuki holders receive access to exclusive drops, experiences, and more."
     },
     {
         "name": "Apes",
@@ -41,7 +44,8 @@
         "collection": "-",
         "owners": "1",
         "wallet": "ETH",
-        "items": "1"
+        "items": "1",
+        "description": "Just ape. A collection of 10,000 Apes that take us back to basics. None of the fluff, all of the value."
     },
     {
         "name": "Renga",
@@ -49,10 +53,11 @@
         "type": "verified",
         "floor": "1.2ETH",
         "volume": "40,619ETH",
-        "collection": "PFPs",
+        "collection": "RENGA-inc",
         "owners": "3,210",
         "wallet": "ETH",
-        "items": "8606"
+        "items": "8606",
+        "description": "A handcrafted collection of 10,000 characters developed by artist DirtyRobot. Each with their own identity to be discovered within the wider stories of RENGA. In its purest form, RENGA is the art of storytelling."
     },
     {
         "name": "77-Bit",
@@ -63,7 +68,8 @@
         "collection": "-",
         "owners": "0",
         "wallet": "ETH",
-        "items": "1"
+        "items": "1",
+        "description": "77.bit"
     },
     {
         "name": "The Captains",
@@ -74,7 +80,8 @@
         "collection": "Vats",
         "owners": "2",
         "wallet": "ETH",
-        "items": "25"
+        "items": "25",
+        "description": "'The Captains' are a unique handmade collection of pixel avatars.Owning a captain includes a free phone case at www.mintn.io and future stuff!"
     },
     {
         "name": "Misfits Project",
@@ -85,7 +92,8 @@
         "collection": "-",
         "owners": "1",
         "wallet": "ETH",
-        "items": "4"
+        "items": "4",
+        "description": "Welcome to the home of Misfits project on OpenSea. Discover the best items in this collection."
     },
     {
         "name": "Honey Comb",
@@ -96,7 +104,8 @@
         "collection": "-",
         "owners": "1",
         "wallet": "ETH",
-        "items": "4"
+        "items": "4",
+        "description": "combs of honey"
     },
     {
         "name": "Proof Collective",
@@ -107,7 +116,8 @@
         "collection": "Memberships",
         "owners": "928",
         "wallet": "ETH",
-        "items": "1000"
+        "items": "1000",
+        "description": "A private group of 1,000 dedicated NFT collectors and artists. Membership valid from 1/1/2022-1/1/2025."
     },
     {
         "name": "Genesis Oath",
@@ -118,7 +128,8 @@
         "collection": "Memberships",
         "owners": "933",
         "wallet": "ETH",
-        "items": "2166"
+        "items": "2166",
+        "description": "Genesis Oath is a collection granting members-only access and benefits to the Mutant Cartel. Take your seat at the Cartel's table and rise as a Made Mutant."
     },
     {
         "name": "Moonbirds",
@@ -129,6 +140,7 @@
         "collection": "",
         "owners": "1",
         "wallet": "ETH",
-        "items": "3"
+        "items": "3",
+        "description": "Welcome to the home of Moon Birds on OpenSea. Discover the best items in this collection."
     }
 ]

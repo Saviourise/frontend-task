@@ -27,6 +27,14 @@
     float: right;
 }
 
+.modalDescription {
+    font-size: 0.8rem;
+    font-weight: 100;
+    color: var(--color-4);
+    margin: 0px;
+    margin-bottom: -20px;
+}
+
 /* media queries */
 @media screen and (max-width: 768px) {
     .modalInfo > h5 {

@@ -26,7 +26,14 @@ const ModalComponent = () => {
             <img className="modalImg" src={modalInfo.payload.img} alt={modalInfo.payload.name} />
             </div>
         </Modal.Body>
-        <Modal.Body  style={{padding: 0}}>
+        <Modal.Body style={{ padding: 0 }}>
+          <div className="modalInfo">
+          <p className="modalDescription">
+            {modalInfo.payload.description}
+            </p>
+            </div>
+        </Modal.Body>
+        <Modal.Body style={{ padding: 0 }}>
           <div className="modalInfo">
             <h5>
               <span>Collection: </span>
