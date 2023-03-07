@@ -1,0 +1,35 @@
+.modalImg {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.modalImgContainer {
+    width: 100%;
+    height: 300px;
+}
+
+.modalInfo {
+    padding: 20px;
+}
+
+.modalInfo > h5 {
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin: 20px 0px;
+}
+
+.modalInfo > h5 > span:nth-child(2), .modalInfo > h5 > span:nth-child(3) > span:first-child {
+    color: var(--color-5);
+}
+
+.modalInfo > h5 > span:nth-child(3) {
+    float: right;
+}
+
+/* media queries */
+@media screen and (max-width: 768px) {
+    .modalInfo > h5 {
+        font-size: 0.9rem;
+    }
+}

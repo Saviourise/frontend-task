@@ -1,0 +1,71 @@
+.cardComponent > div {
+    width: 300px;
+    height: 300px;
+    border-radius: 23px;
+    background-color: var(--color-white);
+    cursor: pointer;
+}
+
+.cardComponent > div > img{
+    width: 100%;
+    height: 60%;
+    object-fit: cover;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+
+.cardComponent > div > div {
+    height: 40%;
+    padding: 10px 20px;
+}
+
+.cardComponent > div > div > div {
+    display: flex;
+    justify-content: flex-start;
+    color: var(--color-5);
+}
+
+.cardComponent > div > div > div > p {
+    width: 50%;
+}
+
+.cardComponent > div > div > div > p > span {
+    font-weight: 100;
+    font-size: 0.8rem;
+    color: var(--color-4);
+}
+
+.cardComponent {
+    display: block;
+    transition: all 0.3s ease-in-out;
+    margin-right: 50px;
+    border-radius: 20px;
+}
+
+.cardComponent:hover {
+    transform: scale(1.02);
+}
+
+/* media queries */
+@media screen and (max-width: 768px) {
+    .cardComponent > div {
+        width: 200px;
+        height: 200px;
+    }
+    .cardComponent > div > img{
+        height: 50%;
+    }
+    .cardComponent > div > div {
+        height: 50%;
+        padding: 10px 20px;
+    }
+    .cardComponent > div > div > h3 {
+        font-size: 0.9rem;
+    }
+    .cardComponent {
+        margin-right: 20px;
+    }
+}

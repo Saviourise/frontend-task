@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Healing",
+        "img": "../src/assets/hh.avif",
+        "type": "verified",
+        "floor": "-",
+        "volume": "0.546ETH",
+        "collection": "Healing from the metaverse",
+        "owners": "16",
+        "wallet": "ETH",
+        "items": "29"
+    },
+    {
+        "name": "Cool Cats",
+        "img": "../src/assets/cc.avif",
+        "type": "trending",
+        "floor": "-",
+        "volume": "0ETH",
+        "collection": "-",
+        "owners": "-0",
+        "wallet": "ETH",
+        "items": "0"
+    },
+    {
+        "name": "Azuki",
+        "img": "../src/assets/az.avif",
+        "type": "trending",
+        "floor": "14.6ETH",
+        "volume": "422,170ETH",
+        "collection": "PFPs",
+        "owners": "4,908",
+        "wallet": "ETH",
+        "items": "10k"
+    },
+    {
+        "name": "Apes",
+        "img": "../src/assets/ap.avif",
+        "type": "trending",
+        "floor": "-",
+        "volume": "0ETH",
+        "collection": "-",
+        "owners": "1",
+        "wallet": "ETH",
+        "items": "1"
+    },
+    {
+        "name": "Renga",
+        "img": "../src/assets/re.webp",
+        "type": "verified",
+        "floor": "1.2ETH",
+        "volume": "40,619ETH",
+        "collection": "PFPs",
+        "owners": "3,210",
+        "wallet": "ETH",
+        "items": "8606"
+    },
+    {
+        "name": "77-Bit",
+        "img": "../src/assets/77.avif",
+        "type": "verified",
+        "floor": "12ETH",
+        "volume": "0ETH",
+        "collection": "-",
+        "owners": "0",
+        "wallet": "ETH",
+        "items": "1"
+    },
+    {
+        "name": "The Captains",
+        "img": "../src/assets/tc.avif",
+        "type": "verified",
+        "floor": "-",
+        "volume": "0ETH",
+        "collection": "Vats",
+        "owners": "2",
+        "wallet": "ETH",
+        "items": "25"
+    },
+    {
+        "name": "Misfits Project",
+        "img": "../src/assets/mp.avif",
+        "type": "verified",
+        "floor": "-",
+        "volume": "0ETH",
+        "collection": "-",
+        "owners": "1",
+        "wallet": "ETH",
+        "items": "4"
+    },
+    {
+        "name": "Honey Comb",
+        "img": "../src/assets/hc.avif",
+        "type": "trending",
+        "floor": "-",
+        "volume": "0ETH",
+        "collection": "-",
+        "owners": "1",
+        "wallet": "ETH",
+        "items": "4"
+    },
+    {
+        "name": "Proof Collective",
+        "img": "../src/assets/pc.avif",
+        "type": "trending",
+        "floor": "15.9699ETH",
+        "volume": "27,630ETH",
+        "collection": "Memberships",
+        "owners": "928",
+        "wallet": "ETH",
+        "items": "1000"
+    },
+    {
+        "name": "Genesis Oath",
+        "img": "../src/assets/go.avif",
+        "type": "trending",
+        "floor": "0.43ETH",
+        "volume": "2,330ETH",
+        "collection": "Memberships",
+        "owners": "933",
+        "wallet": "ETH",
+        "items": "2166"
+    },
+    {
+        "name": "Moonbirds",
+        "img": "../src/assets/mo.avif",
+        "type": "verified",
+        "floor": "-",
+        "volume": "0ETH",
+        "collection": "",
+        "owners": "1",
+        "wallet": "ETH",
+        "items": "3"
+    }
+]
