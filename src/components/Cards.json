@@ -1,7 +1,7 @@
 [
     {
         "name": "Healing",
-        "img": "../src/assets/hh.avif",
+        "img": "https://i.ibb.co/tDPWynJ/hh.png",
         "type": "verified",
         "floor": "-",
         "volume": "0.546ETH",
@@ -12,7 +12,7 @@
     },
     {
         "name": "Cool Cats",
-        "img": "../src/assets/cc.avif",
+        "img": "https://i.ibb.co/jRLVFJ7/cc.png",
         "type": "trending",
         "floor": "-",
         "volume": "0ETH",
@@ -23,7 +23,7 @@
     },
     {
         "name": "Azuki",
-        "img": "../src/assets/az.avif",
+        "img": "https://i.ibb.co/cvv1zMJ/az.png",
         "type": "trending",
         "floor": "14.6ETH",
         "volume": "422,170ETH",
@@ -34,7 +34,7 @@
     },
     {
         "name": "Apes",
-        "img": "../src/assets/ap.avif",
+        "img": "https://i.ibb.co/2WFGdyp/ap.png",
         "type": "trending",
         "floor": "-",
         "volume": "0ETH",
@@ -45,7 +45,7 @@
     },
     {
         "name": "Renga",
-        "img": "../src/assets/re.webp",
+        "img": "https://i.ibb.co/Xy7JQrB/re.webp",
         "type": "verified",
         "floor": "1.2ETH",
         "volume": "40,619ETH",
@@ -56,7 +56,7 @@
     },
     {
         "name": "77-Bit",
-        "img": "../src/assets/77.avif",
+        "img": "https://i.ibb.co/5kBp369/77.png",
         "type": "verified",
         "floor": "12ETH",
         "volume": "0ETH",
@@ -67,7 +67,7 @@
     },
     {
         "name": "The Captains",
-        "img": "../src/assets/tc.avif",
+        "img": "https://i.ibb.co/4gzvmpH/tc.png",
         "type": "verified",
         "floor": "-",
         "volume": "0ETH",
@@ -78,7 +78,7 @@
     },
     {
         "name": "Misfits Project",
-        "img": "../src/assets/mp.avif",
+        "img": "https://i.ibb.co/FnGD1XW/mp.png",
         "type": "verified",
         "floor": "-",
         "volume": "0ETH",
@@ -89,7 +89,7 @@
     },
     {
         "name": "Honey Comb",
-        "img": "../src/assets/hc.avif",
+        "img": "https://i.ibb.co/FnQQWL0/hc.png",
         "type": "trending",
         "floor": "-",
         "volume": "0ETH",
@@ -100,7 +100,7 @@
     },
     {
         "name": "Proof Collective",
-        "img": "../src/assets/pc.avif",
+        "img": "https://i.ibb.co/PjrTwXZ/pc.png",
         "type": "trending",
         "floor": "15.9699ETH",
         "volume": "27,630ETH",
@@ -111,7 +111,7 @@
     },
     {
         "name": "Genesis Oath",
-        "img": "../src/assets/go.avif",
+        "img": "https://i.ibb.co/G0RxL6w/go.png",
         "type": "trending",
         "floor": "0.43ETH",
         "volume": "2,330ETH",
@@ -122,7 +122,7 @@
     },
     {
         "name": "Moonbirds",
-        "img": "../src/assets/mo.avif",
+        "img": "https://i.ibb.co/xLp6k45/mo.png",
         "type": "verified",
         "floor": "-",
         "volume": "0ETH",
