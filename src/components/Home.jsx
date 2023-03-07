@@ -27,7 +27,7 @@ const Home = () => {
           <Hero />
           <section className="bannerContainer">
                     <div className="banner" onClick={() => {
-                        handleOpenModal({name: "Mayfair Witches Pass", owners: "5", collection: "OrangComet", img: "../src/assets/banner.avif", volume: "4,556", wallet: "ETH", floor: "0.1"})
+                        handleOpenModal({name: "Mayfair Witches Pass", owners: "5", description: "100 NFTs have been minted by the Orange Comet team wallet for partners and our community.", collection: "OrangComet", img: "https://i.ibb.co/PC48wdz/banner.jpg", volume: "4,556", wallet: "ETH", floor: "0.1ETH"})
                     }}>
                   <div>
                       <h1>Mayfair Witches Pass</h1>
